@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <RootNamespace>EfCoreSqliteExample.Core</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="MvvmCross.Forms" Version="6.4.2" />
+      <PackageReference Include="Xamarin.Forms" Version="4.5.0.617" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\EfCoreSqliteExample.Core\EfCoreSqliteExample.Core.csproj" />
+    </ItemGroup>
+
+</Project>

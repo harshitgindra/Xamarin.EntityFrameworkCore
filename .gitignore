@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/EfCoreSqliteExample.Android/bin/Debug
+/EfCoreSqliteExample.Android/obj
+/EfCoreSqliteExample.Core/bin/Debug
+/EfCoreSqliteExample.Core/obj
+/EfCoreSqliteExample.iOS/bin/iPhoneSimulator/Debug
+/EfCoreSqliteExample.iOS/obj
+/EfCoreSqliteExample.Ui/bin/Debug/netstandard2.1
+/EfCoreSqliteExample.Ui/obj
